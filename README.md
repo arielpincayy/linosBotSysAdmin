@@ -114,6 +114,8 @@ python app.py
 
 ![Architecture Diagram](diagrama.png)
 
+![Demo](demo.gif)
+
 ---
 
 **Last Updated**: December 3, 2025
