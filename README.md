@@ -112,6 +112,8 @@ python app.py
 - **Chroma**: Vector store; persisted to disk; uses nomic-embed-text for embeddings
 - **No external APIs**: Fully local except for initial model downloads from Ollama registry
 
+![Architecture Diagram](diagrama.png)
+
 ---
 
 **Last Updated**: December 3, 2025
